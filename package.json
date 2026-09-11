@@ -5,20 +5,20 @@
   "description": "Keyboard shortcuts for setting highlight/annotation colors in Zotero's PDF reader",
   "config": {
     "addonName": "Color Shortcuts",
-    "addonID": "color-shortcuts@nurassyl.local",
+    "addonID": "color-shortcuts@manu-gibst.github.io",
     "addonRef": "colorshortcuts",
     "addonInstance": "ColorShortcuts",
     "prefsPrefix": "extensions.zotero.colorshortcuts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nurassyl/zotero-color-shortcuts.git"
+    "url": "git+https://github.com/manu-gibst/zotero-color-shortcuts.git"
   },
-  "author": "Nurassyl",
+  "author": "manu-gibst",
   "bugs": {
-    "url": "https://github.com/nurassyl/zotero-color-shortcuts/issues"
+    "url": "https://github.com/manu-gibst/zotero-color-shortcuts/issues"
   },
-  "homepage": "https://github.com/nurassyl/zotero-color-shortcuts#readme",
+  "homepage": "https://github.com/manu-gibst/zotero-color-shortcuts#readme",
   "license": "AGPL-3.0-or-later",
   "scripts": {
     "start": "zotero-plugin serve",
