@@ -1,7 +1,7 @@
 {
   "name": "zotero-color-shortcuts",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Keyboard shortcuts for setting highlight/annotation colors in Zotero's PDF reader",
   "config": {
     "addonName": "Color Shortcuts",
